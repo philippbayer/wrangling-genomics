@@ -1,4 +1,4 @@
-# Wrangling Genomics
+# Wrangling Pangenomes
 
 Lesson for quality control, assembling, and interrogating pangenomes.
 
